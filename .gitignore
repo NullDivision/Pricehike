@@ -1,0 +1,5 @@
+localhost.*
+localhost.*
+jspm_packages/
+node_modules/
+scraper/__pycache__/
